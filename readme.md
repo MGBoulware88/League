@@ -1,0 +1,1 @@
+This is a simple python app that asks the user how much LP they gain/lose for win/loss, how much LP they need to gain to hit their rank goal and returns back what their win percentage needs to be over how many games to hit their rank goal.
